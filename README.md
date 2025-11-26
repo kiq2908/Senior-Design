@@ -1,2 +1,2 @@
 # Senior-Design
-Senior Design Project for Undergrad Program in CS at University of Cincinnati
+Senior Design Project for Undergraduate Program in CS at University of Cincinnati
